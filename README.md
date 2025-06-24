@@ -24,22 +24,6 @@
 
 ---
 
-🔗 _"Code is not just about syntax; it's about impact."_
-
----
-
-## 🤝 Let’s Connect
-
-I haven’t contributed to open-source yet — but I'm exploring it and excited to get started!  
-Feel free to explore my repositories or connect with me for collaboration, feedback, or ideas.
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deeksha-agarwal3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwaldeeksha246@gmail.com) 
-
----
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
@@ -60,12 +44,23 @@ Feel free to explore my repositories or connect with me for collaboration, feedb
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deeksha224&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Deeksha224&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksha224&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🤝 Let’s Connect
+
+I haven’t contributed to open-source yet — but I'm exploring it and excited to get started!  
+Feel free to explore my repositories or connect with me for collaboration, feedback, or ideas.
 
 ---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deeksha-agarwal3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwaldeeksha246@gmail.com) 
+
+---
+
+🔗 _"Code is not just about syntax; it's about impact."_
+
+---
+
+
 
 [![](https://visitcount.itsvg.in/api?id=Deeksha224&icon=10&color=13)](https://visitcount.itsvg.in)
 
